@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+header,main, footer {
+    /* Largura das tags */
+    width: 600px;
+    
+    /* cor de fundo */
+    background-color: rgba(166, 222, 224, 0.753);
+
+    /* centralizar as tags das páginas */
+
+    margin: auto;
+
+    /* mudar a cor da fonte */
+
+    color: black;
+
+
+}
+
+img{
+
+    /* largura das imagens*/
+    
+    width: 100%;
+
+}
+
+iframe{
+
+    width: 100%;
+}
